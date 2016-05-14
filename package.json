@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "co": "^4.6.0",
+    "moment": "^2.13.0",
+    "node-gsdata-sdk": "git+ssh://git@github.com:longwosion/node-gsdata-sdk.git",    
+    "mongodb-bluebird": "^0.1.1"
+  }
+}
